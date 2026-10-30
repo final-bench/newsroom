@@ -6,6 +6,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-10-30
+- 🇰🇷 **Financial News**: [VIDRAFT's Chitos builds modules covering all 17 FSI AI security evaluation criteria](https://www.fnnews.com/news/202610301324484711)
 - 🇰🇷 **Chosun Biz**: [VIDRAFT unveils ViSQL, an NL2SQL engine that answers questions with verified SQL](https://biz.chosun.com/industry/business_info/2026/10/30/LF3T666QAZGEZCMIQOTFGNJ62E/)
 - 🇰🇷 **AI Times**: [Hugging Face open-source team builds and donates a demo for VIDRAFT's decision AI](https://www.aitimes.com/news/articleView.html?idxno=216833)
 - 🇰🇷 **Economist**: [QuantID analyzes 53 official Hugging Face benchmarks: Korea second in #1 spots](https://economist.co.kr/article/view/ecn202610300010)
@@ -219,7 +220,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-07-24
 - 🇺🇸 **SemiEngineering (US)**: [US semiconductor authority SemiEngineering editorial staff selects VIDRAFT's quantum cryptanalysis paper (IBM real-machine) in weekly 'security research paper' review: listed alongside Meta, Google, and top university papers](https://semiengineering.com/chip-industry-week-in-review-148/)
 - 🇺🇸 **StreetInsider (US)**: [Published on US financial news outlet StreetInsider: Spot robot at Seoul Robot & AI Science Museum understands Korean voice commands (VIDRAFT on-device AI, processed on-site without cloud)](https://www.streetinsider.com/dr/news.php?id=26809457&gfv=1)
-- 🇰🇷 **Ground News (Canada)**: [Canadian news bias/fact comparison aggregator Ground News aggregates news of Spot robot's Korean voice control at Seoul museum: recorded as listed across 58 news sources including US outlets (74% centrist media)](https://ground.news/article/boston-dynamics-spot-robot-at-seoul-museum-now-understands-korean-voice-commands)
 
 ---
 

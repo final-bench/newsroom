@@ -1,11 +1,27 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-10-15.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-10-30.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
+### 2026-10-30
+- 🇰🇷 **Chosun Biz**: [VIDRAFT unveils ViSQL, an NL2SQL engine that answers questions with verified SQL](https://biz.chosun.com/industry/business_info/2026/10/30/LF3T666QAZGEZCMIQOTFGNJ62E/)
+- 🇰🇷 **AI Times**: [Hugging Face open-source team builds and donates a demo for VIDRAFT's decision AI](https://www.aitimes.com/news/articleView.html?idxno=216833)
+- 🇰🇷 **Economist**: [QuantID analyzes 53 official Hugging Face benchmarks: Korea second in #1 spots](https://economist.co.kr/article/view/ecn202610300010)
+
+### 2026-10-22
+- 🇪🇸 **🇪🇸 DonWeb (Spanish)**: [Audit of Hugging Face official leaderboards: FINAL-Bench leads 11 of 44 boards (self-audit noted)](https://blog.donweb.com/leaderboards-ia-hugging-face-verificados/)
+
+### 2026-10-18
+- 🇰🇷 **Naver Encyclopedia**: [Listed in Naver Encyclopedia: VIDRAFT building a platform anyone can use toward true AGI](https://terms.naver.com/%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%86%B5%EC%8B%A0-IT/PART-04-%EB%B9%84%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8-%ED%8A%B8%EB%A3%A8-AGI-%EB%8B%AC%EC%84%B1-%EC%9C%84%ED%95%B4-%EB%88%84%EA%B5%AC%EB%82%98-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84-3aIQ0JDmygCbS51JOcvzsd)
+- 🇰🇷 **AIhoster (Russia)**: [Russia's AIhoster benchmark hub lists Darwin-180B-RSI at #1 on MMLU-Pro and GPQA (88.1%, 94.4%)](https://aihoster.ru/benchmarks)
+
+### 2026-10-16
+- 🇰🇷 **FINAL-Bench**: [Darwin-27B-ZTC-v5 reclaims #1 on Hugging Face Typed Decisions (0.81)](https://huggingface.co/datasets/LocalLLaMA/typed-decisions)
+
 ### 2026-10-15
+- 🇰🇷 **AI Economy News**: [VIDRAFT pretrains a language model on an inference-only NPU, cutting GPU dependence](https://www.aienews.kr/news/articleView.html?idxno=3409)
 - 🇰🇷 **AI Times**: [VIDRAFT pretrains a language model on an inference-only NPU, cutting GPU dependence](https://www.aitimes.com/news/articleView.html?idxno=216272)
 
 ### 2026-10-14
@@ -19,6 +35,8 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **ZDNet Korea**: [VIDRAFT pretrains an AI model on an NPU alone, without a GPU](https://zdnet.co.kr/view/?no=20261014150525)
 
 ### 2026-10-13
+- 🌐 **RocketPunch Discover**: [VIDRAFT develops VKORE for AI training on inference-only NPUs](https://www.rocketpunch.com/en/discover/70388?list=true)
+- 🇰🇷 **Alabia Insights**: [Darwin-27B-ZTC leads the System One (S1MB) decision-model benchmark](https://alabia.com.br/insights/ia/inteligencia-artificial/darwin-27b-ztc-v2-system-one-benchmark-leader-2/)
 - 🇰🇷 **ChosunBiz**: [VIDRAFT tops the global Decision AI benchmark S1MB, ahead of Perplexity, Cloudflare and Meta](https://biz.chosun.com/industry/business_info/2026/10/13/RV5RAIFATNFE3PYKQEJDN2RVOA/)
 - 🇰🇷 **AI Times**: [VIDRAFT develops NPU acceleration software 'VKORE', enabling both inference and training](https://www.aitimes.com/news/articleView.html?idxno=216203)
 - 🇰🇷 **ZDNet Korea**: [Training on inference-only NPUs: VIDRAFT develops its VKORE acceleration layer](https://zdnet.co.kr/view/?no=20261013120239)
@@ -68,7 +86,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇫🇷 **jls42 (France)**: [AI news, Oct 2: VIDRAFT releases POCKET-Darwin-180B, a 111 GB 4-bit GGUF that runs on CPU and laptops](https://www.jls42.org/en/news/ia-actualites-02-oct-2026/)
 
 ### 2026-10-01
-- 🇰🇷 **DonWeb (Argentina)**: [Darwin-180B-RSI leads legal benchmarks without studying law](https://blog.donweb.com/darwin-180b-rsi-benchmark-legal-lexam/)
+- 🇪🇸 **🇪🇸 DonWeb (Spanish)**: [Darwin-180B-RSI leads legal benchmarks without studying law](https://blog.donweb.com/darwin-180b-rsi-benchmark-legal-lexam/)
 - 🇰🇷 **AI Times**: [VIDRAFT tops a global legal benchmark without training on legal data](https://www.aitimes.com/news/articleView.html?idxno=215851)
 - 🇰🇷 **Lawissue**: [VIDRAFT's self-improving AI tops Hugging Face's official law exam benchmark, sweeping seven categories](https://www.lawissue.co.kr/view.php?ud=2026100113490567359aeda69934_12)
 - 🇰🇷 **Law Leader**: [VIDRAFT sweeps seven Hugging Face official categories, including first place in legal reasoning](https://www.lawleader.co.kr/news/articleView.html?idxno=20071)
@@ -202,20 +220,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇺🇸 **SemiEngineering (US)**: [US semiconductor authority SemiEngineering editorial staff selects VIDRAFT's quantum cryptanalysis paper (IBM real-machine) in weekly 'security research paper' review: listed alongside Meta, Google, and top university papers](https://semiengineering.com/chip-industry-week-in-review-148/)
 - 🇺🇸 **StreetInsider (US)**: [Published on US financial news outlet StreetInsider: Spot robot at Seoul Robot & AI Science Museum understands Korean voice commands (VIDRAFT on-device AI, processed on-site without cloud)](https://www.streetinsider.com/dr/news.php?id=26809457&gfv=1)
 - 🇰🇷 **Ground News (Canada)**: [Canadian news bias/fact comparison aggregator Ground News aggregates news of Spot robot's Korean voice control at Seoul museum: recorded as listed across 58 news sources including US outlets (74% centrist media)](https://ground.news/article/boston-dynamics-spot-robot-at-seoul-museum-now-understands-korean-voice-commands)
-
-### 2026-07-22
-- 🇰🇷 **Brunch**: [The story of attempting to break cryptography with a quantum computer: IBM real machine Even-Mansour N=10](https://brunch.co.kr/@seawolf/154)
-
-### 2026-07-20
-- 🇨🇳 **CNMO 手机中国 (China)**: [Chinese IT outlet CNMO (手机中国) highlights full disclosure of 'Aether-7B-5Attn': "An independent foundation model, not English-centric"](https://ai.cnmo.com/news/813687.html)
-- 🇨🇳 **Tencent News (China)**: [China's largest portal Tencent News (腾讯新闻) reports on VIDRAFT's open-source foundation model 'Aether-7B-5Attn'](https://news.qq.com/rain/a/20260720A075HS00)
-- 🇨🇳 **金融界 (China)**: [Published on Chinese financial portal 金融界: VIDRAFT open-sources 'Aether-7B', fully releasing training source code and weights](https://finance.jrj.com.cn/2026/07/20165757843271.shtml)
-- 🇰🇷 **ReasonCore (Global)**: [English-language IT outlet ReasonCore highlights full disclosure of 'Aether-7B-5Attn': weights, training code, data recipe, logs, and checkpoints all reproducible under Apache-2.0](https://reasoncore.dev/post/vidraft-publishes-aether-7b-5attn-weights-code-data-and-logs-under-apache20)
-- 🇰🇷 **JoongAng Ilbo**: [VIDRAFT releases fully open foundation model... "Realizing AI sovereignty"](https://www.joongang.co.kr/article/25446488)
-- 🇰🇷 **ZDNet Korea**: [AI startup VIDRAFT unveils independently developed foundation model 'Aether-7B-5Attn'](https://zdnet.co.kr/view/?no=20260720144532)
-- 🇰🇷 **Digital Daily**: [VIDRAFT releases 'AI meal-kit' open-source LLM... "Presents a model structure anyone can reproduce"](https://m.ddaily.co.kr/page/view/2026072014294564375)
-- 🇰🇷 **Hankook Ilbo**: [VIDRAFT releases Korean-style open-source AI model, disclosing even the training process](https://www.hankookilbo.com/news/article/amp/A2026072013410001716)
-- 🇰🇷 **ChosunBiz**: [VIDRAFT releases foundation model 'Aether-7B-5Attn'... also provides training code and data](https://biz.chosun.com/industry/business_info/2026/07/20/JMLIYAQZGFCTTDRONW5VYK3QJU/)
 
 ---
 

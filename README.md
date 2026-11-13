@@ -1,11 +1,72 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-10-30.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-13.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
+### 2026-11-13
+- 🇰🇷 **Seoul Shinmun**: [Seoul Shinmun: VIDRAFT's Darwin ranks first among open-weight models in SuperCLUE's math and science reasoning evaluation, second of all 19 models](https://www.seoul.co.kr/news/economy/2026/11/13/20261113500198)
+
+### 2026-11-11
+- 🇰🇷 **IT Chosun**: [IT Chosun: VIDRAFT unveils ViKernel, an LLM OS with a compute circuit and a kill switch built into the model weights](https://it.chosun.com/news/articleView.html?idxno=3000000000737)
+
+### 2026-11-10
+- 🇨🇳 **ZAKER (China)**: [ZAKER (China): an in-depth, byte-level analysis of the Darwin-180B-RSI-R3 GGUF structure, with a Chinese outlet dissecting VIDRAFT's open model](https://www.myzaker.com/article/6af129768e9f0933642ae0fb)
+
+### 2026-11-09
+- 🇺🇸 **zPlatform.ai (US)**: [zPlatform.ai (US): POCKET-Darwin-180B and Darwin-180B-RSI-R3 are listed in an independent Hugging Face model ranking based on real adoption and growth](https://zplatform.ai/hugging-face-models/)
+- 🇰🇷 **USB.RU (Russia)**: [Russia's USB.RU: Darwin-180B-RSI beats Gemini and DeepSeek in math, the best open-weight model in SuperCLUE's November ranking (73.68, second of 19)](https://usb.ru/news/darwin-180b-rsi-superclue-nov-2026/)
+- 🌐 **ByteWoops (Global)**: [ByteWoops (zh/en): SuperCLUE's numbered No. 1 is not the highest score of the 19 models; on a November board where category leads split, VIDRAFT's Darwin-180B-RSI-R3 takes math and science reasoning 73.68, second of 19](https://www.bytewoops.com/zh-CN/stories/superclue-s-numbered-no-1-is-not-the-highest-score-of-the-19)
+
+### 2026-11-08
+- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT's Darwin places second worldwide in math and science reasoning on China's SuperCLUE, scoring 73.68 behind GPT-6.1-Sol and first among open-weight models](https://www.aienews.kr/news/articleView.html?idxno=3861)
+
+### 2026-11-07
+- 🇨🇳 **NetEase (China)**: [NetEase (China): Second at 73.68, the open-weight model that left Gemini and Grok behind, SuperCLUE November math and science reasoning, scored on the benchmark's own private set rather than by the developer](https://www.163.com/dy/article/LB49FFLO05561FZU.html)
+- 🇯🇵 **Labmemo (Japan)**: [Labmemo (Japan) AI news roundup, November 7: VIDRAFT releases the recursively self-improved Darwin-180B-RSI-R3 weights, with 73.68 in SuperCLUE math and science reasoning](https://labmemo.com/ai-news-roundup-2026-11-07/)
+
+### 2026-11-06
+- 🇯🇵 **Zenn (Japan)**: [Zenn (Japan) developer tech watch: two of ten picks go to VIDRAFT's ViKernel, the design that puts the stop mechanism, the action rules and the audit chain inside the weights](https://zenn.dev/laiken/articles/20261106-tech-watch)
+- 🇨🇳 **NetEase (China)**: [NetEase (China): VIDRAFT's Darwin-180B-RSI-R3, the only Korean model on the SuperCLUE board, takes second in math and science reasoning and first among open-weight models, ahead of its parent model at 15th](https://www.163.com/dy/article/LB0SLOGS05561FZO.html)
+- 🇰🇷 **Blog Donweb (Argentina)**: [Blog Donweb (Latin America): VIDRAFT's Darwin ranks second of 19 and first among open-weight models in SuperCLUE's November 2026 math and science reasoning](https://blog.donweb.com/darwin-superclue-resultado-razonamiento-matematico/)
+- 🌐 **ByteWoops (Global)**: [ByteWoops (zh/en): the sleeper in the weights, scans all green yet the agent still proposes curl/bash; VIDRAFT's ViKernel gate rejected all 290 payloads before execution](https://www.bytewoops.com/zh-CN/stories/curl-bash)
+- 🇰🇷 **LUCAS AI News (Korea)**: [VIDRAFT releases Darwin-180B, claims second place in SuperCLUE math and science reasoning](https://lucasainews.com/news/vidraft-darwin-180b-rsi-r3-open-weight/)
+- 🇰🇷 **AI Times**: [VIDRAFT's Darwin at world number two level in math and science reasoning, ahead of Google and DeepSeek](https://www.aitimes.com/news/articleView.html?idxno=217089)
+- 🇰🇷 **Digital Daily**: [VIDRAFT's Darwin takes second place on a global benchmark, built for complex reasoning](https://www.ddaily.co.kr/page/view/2026110611525431091)
+- 🇰🇷 **Economist Korea**: [VIDRAFT's Darwin ranks second globally in SuperCLUE math and science reasoning](https://economist.co.kr/article/view/ecn202611060013)
+- 🇰🇷 **Chosun Biz**: [VIDRAFT's Darwin beats Google, Grok and DeepSeek in math and science reasoning on China's SuperCLUE](https://biz.chosun.com/industry/business_info/2026/11/06/3R76ZCK4ENBUPKSLJCDYKYTLHE/)
+
+### 2026-11-05
+- 🌐 **llms.blog (Global)**: [llms.blog on SuperCLUE's November 2026 board: VIDRAFT's Darwin-180B-RSI-R3 (43.08) named among the four unranked reference models alongside Gemini-4-Argon, GPT-6.1-Sol and Grok-4.7](https://www.llms.blog/posts/superclue-november-2026-kimi-k3-1-pro)
+
+### 2026-11-04
+- 🇨🇳 **SuperCLUE official (China)**: [SuperCLUE's own November headline: “Kimi-K3.1-Pro #1 in China, Korea's Darwin on the board for the first time!” The benchmark's primary announcement: Darwin-180B-RSI-R3 is the only Korean model of 19, first among open-weight models on math and science reasoning at 73.68](https://mp.weixin.qq.com/s?__biz=MzA5NzAxNTA0MQ==&mid=2247578974&idx=1&sn=2c8dd9b554e6cce9cd7a68d07abc07f1)
+- 🇨🇳 **NetEase (China)**: [China's NetEase (Tanji Dagongren): reading a document is not permission to act on it, what VIDRAFT's 661 ViKernel tests show](https://www.163.com/dy/article/LASO4UC305561FZG.html)
+- 🇨🇳 **NetEase (China)**: [China's NetEase (Baocuo Mianyiti): VIDRAFT's ViKernel action gate blocks all 290 payloads from a backdoored model that passed 24 standard checks](https://www.163.com/dy/article/LASSKR5S05561FZJ.html)
+- 🇨🇳 **NetEase (China)**: [China's NetEase: 300 global and 30 Korean repositories, the other side of open AI models seen through VIDRAFT's Hugging Face download leaderboard](https://www.163.com/dy/article/LAT6HH9005561FZD.html)
+
+### 2026-11-03
+- 🇰🇷 **ZDNet Korea**: [VIDRAFT plants a security OS inside the AI model to block data leaks](https://zdnet.co.kr/view/?no=20261103144921)
+- 🇰🇷 **AI Times**: [VIDRAFT develops a 'kill switch' AI cannot disable on its own, unveils security OS](https://www.aitimes.com/news/articleView.html?idxno=216938)
+- 🇨🇳 **AI Pulse (China)**: [China's AI Pulse covers VIDRAFT's ViKernel backdoor lab: a backdoored model that passed 24 checks, all 290 payloads blocked before execution](https://ai-pulse-lab.com/articles/2026-11-03/the-sleeper-in-the-weights-we-planted-a-backdoor-i)
+- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT builds a kill switch inside the model weights and releases ViKernel, a security OS the model cannot switch off](https://www.aienews.kr/news/articleView.html?idxno=3763)
+- 🇰🇷 **AI Economy News**: [AI Economy News: Hugging Face's own open-source team built and donated a live demo of VIDRAFT's vision decision model](https://www.aienews.kr/news/articleView.html?idxno=3744)
+- 🇰🇷 **iHAL (Italy)**: [Italy's iHAL highlights VIDRAFT's 'ViKernel': a security OS and controlled kill switch built into AI model weights](https://ihal.it/vidraft-vikernel-os/)
+
+### 2026-11-02
+- 🌐 **Night Grade, scrollstime.com (Global)**: [Night Grade, an independent model comparison site (BenchLM and Hugging Face published scores, as of Nov 2): Darwin-180B-RSI ranks #1 in reasoning at 94.4, above GPT-6 Astra (#3), GPT-6.1 Sol (#5) and Gemini 4 Argon; 11 of the top 20 are VIDRAFT Darwin models](https://www.scrollstime.com/navigator.html)
+- 🇰🇷 **The Korea Economic Daily**: [VIDRAFT unveils ViKernel, a security OS built into model weights](https://www.hankyung.com/article/202611020740O)
+- 🇰🇷 **Hankook Ilbo**: [VIDRAFT unveils ViKernel, a security operating system built inside AI model weights](https://www.hankookilbo.com/news/article/A2026110215110004133?did=NA)
+- 🇰🇷 **Business Report (Korea)**: [[Tomorrow is Decacorn] VIDRAFT pretrains a language model on an inference-only NPU and releases it](https://www.businessreport.kr/news/articleView.html?idxno=55092)
+
+### 2026-11-01
+- 🇰🇷 **Hugging Face Blog**: [VIDRAFT ViKernel: why the kill switch must live inside the model (public demo)](https://huggingface.co/blog/FINAL-Bench/vikernel-why-the-kill-switch-must-live-inside-the)
+- 🇩🇪 **Mindverse (Germany)**: [Germany's Mindverse analyzes VIDRAFT POCKET-35B-GGUF: a 35B model built for CPU-only systems](https://www.mind-verse.de/news/pocket-35b-gguf-cpu-lokale-inferenz-f2890f65dcb9)
+- 🇨🇳 **NetEase (China)**: [China's NetEase: a 180B model runs on an 8GB-VRAM laptop, VIDRAFT POCKET downloads pass 3.15 million](https://www.163.com/dy/article/LAL6FSJA05561FZX.html)
+
 ### 2026-10-30
+- 🇰🇷 **JoongAng Ilbo**: [VIDRAFT pretrains a language model from scratch on a Korean inference NPU](https://www.joongang.co.kr/article/25474466)
 - 🇰🇷 **Financial News**: [VIDRAFT's Chitos builds modules covering all 17 FSI AI security evaluation criteria](https://www.fnnews.com/news/202610301324484711)
 - 🇰🇷 **Chosun Biz**: [VIDRAFT unveils ViSQL, an NL2SQL engine that answers questions with verified SQL](https://biz.chosun.com/industry/business_info/2026/10/30/LF3T666QAZGEZCMIQOTFGNJ62E/)
 - 🇰🇷 **AI Times**: [Hugging Face open-source team builds and donates a demo for VIDRAFT's decision AI](https://www.aitimes.com/news/articleView.html?idxno=216833)
@@ -75,9 +136,11 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **ZDNet Korea**: [VIDRAFT sweeps 10 Hugging Face official #1 benchmarks](https://zdnet.co.kr/view/?no=20261006104246)
 
 ### 2026-10-05
+- 🌐 **iTechGuides (Global)**: [iTechGuides analysis: Darwin-180B-RSI, how a 180B model was updated by changing a claimed 0.02%, and a laptop run at 4.17 tok/s via SSD streaming](https://www.itechguides.com/darwin-180b-rsi-how-a-180b-model-was-updated-by-changing-a-claimed-0-02/)
 - 🇰🇷 **IT Chosun**: [HyperCLOVA X, EXAONE and Solar too: how 'China's Hugging Face' expands (VIDRAFT's ModelScope verification)](https://it.chosun.com/news/articleView.html?idxno=2023092171384)
 
 ### 2026-10-03
+- 🇨🇳 **Baidu Baijiahao (China)**: [Baidu Baijiahao (AI Ziyou): a 180B model on a laptop at 87.65%, VIDRAFT's 4-bit POCKET-Darwin-180B build](https://baijiahao.baidu.com/s?id=1877979202618025410)
 - 🇨🇳 **Toutiao (China)**: [A 180B model on a laptop at 87.65%: POCKET-Darwin-180B](https://www.toutiao.com/article/7692103575425663530/)
 
 ### 2026-10-02
@@ -92,9 +155,11 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **Lawissue**: [VIDRAFT's self-improving AI tops Hugging Face's official law exam benchmark, sweeping seven categories](https://www.lawissue.co.kr/view.php?ud=2026100113490567359aeda69934_12)
 - 🇰🇷 **Law Leader**: [VIDRAFT sweeps seven Hugging Face official categories, including first place in legal reasoning](https://www.lawleader.co.kr/news/articleView.html?idxno=20071)
 - 🌐 **WondTech (Global)**: [Self-Taught AI Tops Swiss Law Exam Without Prior Legal Training](https://wondtech.com/blog/post/660)
+- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT's model takes first place on the LEXam legal reasoning benchmark](https://www.aienews.kr/news/articleView.html?idxno=3285)
 
 ### 2026-09-29
 - 🇰🇷 **ChosunBiz**: [Korean AI startup VIDRAFT beats global big tech to win five AI performance titles](https://biz.chosun.com/industry/business_info/2026/09/29/74GU4VBMIZEKVD3QCFQCE25MKM/)
+- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT opens its 180B model in full and tops five Hugging Face official benchmarks](https://www.aienews.kr/news/articleView.html?idxno=3188)
 
 ### 2026-09-28
 - 🇺🇸 **AI Market Watch (USA)**: [VIDRAFT's recursive self-improvement model tops five global AI leaderboards](https://www.ai-market-watch.com/news/vidrafts-recursive-self-improvement-model-tops-five-global-ai-leaderboards-mctpo0)
@@ -109,6 +174,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-09-17
 - 🇰🇷 **The Dong-A Ilbo**: [GiniGEN AI publishes a Korean-quality evaluation of 426 OpenRouter models](https://www.donga.com/news/Economy/article/all/20260917/134689032/1)
 - 🇰🇷 **AI Times**: [GiniGEN AI releases a Korean-language AI quality leaderboard covering 426 OpenRouter models](https://www.aitimes.com/news/articleView.html?idxno=215396)
+- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT's on-device model POCKET passes one million downloads seven weeks after release](https://www.aienews.kr/news/articleView.html?idxno=2960)
 
 ### 2026-09-16
 - 🇰🇷 **AI Times**: [VIDRAFT's on-device AI POCKET passes 1M downloads seven weeks after release](https://www.aitimes.com/news/articleView.html?idxno=215322)
@@ -146,80 +212,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-09-01
 - 🇰🇷 **Robot News**: [VIDRAFT supplies ‘VIDOG’ AI kit turning remote-control robots into autonomous walkers](https://www.irobotnews.com/news/articleView.html?idxno=48244)
 - 🇰🇷 **AI Times**: [VIDRAFT unveils live experiment world ‘ai-world’: is AI civilization emergence or recitation?](https://www.aitimes.com/news/articleView.html?idxno=214701)
-- 🇰🇷 **BioTimes**: [VIDRAFT AI drug-discovery challenge ‘Open Discovery Challenge’ tops 10,000 submissions](https://www.biotimes.co.kr/news/articleView.html?idxno=34154)
-- 🇰🇷 **JoongAng Ilbo**: [VIDRAFT AX-RAY adopted to verify safety of national security AI foundation model](https://www.joongang.co.kr/article/25458166)
-- 🇰🇷 **Hankook Ilbo**: [VIDRAFT supplies robot autonomous-walking AI kit ‘VIDOG’](https://www.hankookilbo.com/news/article/A2026090114500002760?did=NA)
-- 🇰🇷 **ZDNet Korea**: [VIDRAFT surpasses 1.6 million AI model downloads on Hugging Face](https://zdnet.co.kr/view/?no=20260901133742)
-- 🇰🇷 **Dong-A Ilbo**: [VIDRAFT launches ‘AI Foundry’ business to custom-grow AI for enterprises](https://www.donga.com/news/Economy/article/all/20260901/134582568/1)
-- 🌐 **Hugging Face**: [VIDRAFT 'ai-world' selected for Hugging Face Spaces of the Week (Weekly Top 8): 1st week of Sept 2026](https://huggingface.co/spaces/VIDraft/ai-world)
-
-### 2026-08-26
-- 🇰🇷 **Digital Times**: [VIDRAFT confirms causal leakage in released AI models and moves into the security-AI programme](https://www.dt.co.kr/article/12080350)
-- 🇰🇷 **ETNews**: [One paper, three tiers: VIDRAFT's research, AX-RAY, and the national security-AI programme](https://www.etnews.com/20260826000288)
-- 🇰🇷 **Economist Korea**: [VIDRAFT applies its causal-leakage diagnostic to AX-RAY, extending verification into security-specialised models](https://economist.co.kr/article/view/ecn202608260035)
-- 🇰🇷 **ChosunBiz**: [VIDRAFT publishes its causal-leakage diagnostic research and moves it into the national security-AI programme](https://biz.chosun.com/industry/business_info/2026/08/26/7C47LP3KJRHT5MRDHXVPSXYBAQ/)
-- 🇰🇷 **Bizwatch**: [Two consortia bid for Korea's cybersecurity foundation-model programme: VIDRAFT and LG CNS join the Naver Cloud consortium](https://news.bizwatch.co.kr/article/mobile/2026/08/26/0041)
-- 🇰🇷 **AI Times**: [VIDRAFT extends its causal-leakage findings into AX-RAY, offered as the safety-verification core for a national security foundation-model programme](https://www.aitimes.com/news/articleView.html?idxno=214380)
-
-### 2026-08-23
-- 🇰🇷 **vc.ru (Russia)**: [Russian tech outlet vc.ru: Darwin-36B-Opus: bred rather than trained, matching 397B models at 88.4% on GPQA Diamond](https://vc.ru/ai/3087940-darwin-36b-opus-revolyutsionnaya-model-ii)
-- 🇰🇷 **Vizen Medical**: [Vizen Medical analysis: what the early Claude 43.7 figure from the Open Discovery Challenge does and does not show](https://medical.vizensoft.com/insight/read?no=827)
-
-### 2026-08-22
-- 🇰🇷 **RuntimeWire (Global)**: [FINAL-Bench finds a 0.21 AUROC gap between time and random splits](https://runtimewire.com/article/final-bench-drug-prediction-data-split-auroc)
-
-### 2026-08-20
-- 🇰🇷 **ZDNet Korea**: [ESTsoft bids for Korea's national AI service with 'Al Biseo': VIDRAFT leads model optimisation and compression](https://zdnet.co.kr/view/?no=20260820154136)
-
-### 2026-08-19
-- 🇺🇸 **AP News (USA)**: [Press release on AP News: OpenAI, Claude, Gemini or DeepSeek: which AI is better at discovering drug candidates?](https://apnews.com/press-release/getnews/press-release-7c16400a122d6b323da715ae50c82c35)
-
-### 2026-08-18
-- 🇰🇷 **Hankyoreh**: [Six consortia bid for Korea's free national AI programme: VIDRAFT joins the ESTsoft consortium](https://www.hani.co.kr/arti/economy/it/1273479.html)
-- 🇰🇷 **AI Times**: [VIDRAFT opens its AI drug-discovery project: over 2,000 candidate compounds submitted in three days](https://www.aitimes.com/news/articleView.html?idxno=214044)
-- 🇰🇷 **IT Chosun**: [VIDRAFT releases the AX-RAY AI safety diagnostics leaderboard and evaluation dataset](https://it.chosun.com/news/articleView.html?idxno=2023092168347)
-- 🇰🇷 **Dong-A Ilbo**: [VIDRAFT's AI drug discovery challenge passes 2,000 submissions three days after launch](https://www.donga.com/news/It/article/all/20260818/134494038/1)
-- 🇰🇷 **Electronic Times**: [Claude-family models lead a real drug-candidate competition for malaria and tuberculosis](https://www.etnews.com/20260818000184)
-
-### 2026-08-17
-- 🇰🇷 **AI Times**: [AI Times: VIDRAFT detects causal leakage in general-purpose LLMs and publishes AX-RAY, an AI safety diagnostic leaderboard and evaluation dataset, on Hugging Face](https://www.aitimes.com/news/articleView.html?idxno=213958)
-
-### 2026-08-15
-- 🇯🇵 **note (Japan)**: [note (Japan): an in-depth analysis of VIDRAFT's verified #1 record in the Fast Gemma Challenge](https://note.com/sfs_sk/n/nbb63f14a97f0)
-
-### 2026-08-14
-- 🇰🇷 **ZDNet Korea**: [VIDRAFT releases AX-RAY AI safety diagnostics and evaluation dataset on Hugging Face](https://zdnet.co.kr/view/?no=20260814153305)
-- 🇰🇷 **The Korea Economic Daily**: [VIDRAFT AX-Ray delivers the first empirical demonstration of defects in public AI models](https://www.hankyung.com/article/202608141474O)
-- 🇰🇷 **Electronic Times**: [VIDRAFT AX-Ray diagnoses and reproduces causal-leakage defects in two general-purpose public AI models](https://www.etnews.com/20260814000157)
-
-### 2026-08-04
-- 🇺🇸 **TLDR AI (US)**: [TLDR AI (US): VIDRAFT documented the full configuration behind its verified state-of-the-art Fast Gemma submission on a single NVIDIA A10G, featured in the 1.1M-subscriber developer newsletter](https://tldr.tech/ai/2026-08-04)
-
-### 2026-08-03
-- 🇰🇷 **Korea Economic TV**: [Korea Economic TV: VIDRAFT posts the top verified score on Google×Hugging Face ‘The Fast Gemma Challenge’ (510.58 TPS at PPL 2.39, ~6x baseline)](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=202608031194O)
-- 🇰🇷 **AI Times**: [AI Times: VIDRAFT takes global #1 on Google’s Fast Gemma Challenge (verified 510.58 TPS at PPL 2.39, ~6x the baseline)](https://www.aitimes.com/news/articleView.html?idxno=213466)
-- 🇰🇷 **ETNews**: [ETNews: VIDRAFT tops the Google × Hugging Face ‘Fast Gemma Challenge’ on verified records](https://www.etnews.com/20260803000148)
-- 🇰🇷 **Dong-A Ilbo**: [Dong-A Ilbo: Korean AI startup VIDRAFT takes global #1 on Google’s Fast Gemma Challenge (verified records)](https://www.donga.com/news/Economy/article/all/20260803/134411208/1)
-- 🇰🇷 **The Korea Economic Daily (Hankyung)**: [The Korea Economic Daily: VIDRAFT posts the top verified record on the Google × Hugging Face Fast Gemma Challenge](https://www.hankyung.com/article/202608031194O)
-
-### 2026-08-02
-- 🇰🇷 **techora.ru (Russia)**: [Russian tech outlet techora.ru features VIDRAFT’s Aether-7B-5Attn in a sovereign-AI deep dive: “the world’s first fully open foundation model built by a private company”](https://techora.ru/suverennyy-ii-strany-stroyat-chipy-i-2026-08-02)
-
-### 2026-07-28
-- 🇯🇵 **AI Chronicle (Japan)**: [Japanese AI outlet AI Chronicle covers VIDRAFT's POCKET-35B: a 35B MoE on-device model running on iPhone and GPU-less PCs, cutting memory bandwidth to ~1/5 via MoE](https://ai-chronicle.blog.jp/archives/14209767.html)
-
-### 2026-07-27
-- 🇩🇪 **IT BOLTWISE (Germany)**: [IT BOLTWISE (Germany) reports: VIDRAFT makes the Spot robot at Seoul's Robot & AI Museum understand Korean voice commands via on-device AI, with no cloud and a vendor-neutral modular add-on](https://www.it-boltwise.de/vidraft-macht-den-spot-roboter-per-on-device-ki-sprachfaehig-ohne-cloud-in-seoul.html)
-- 🇰🇷 **Dong-A Ilbo**: [Dong-A Ilbo reports: Ourbox reaches #2 in the 30B+ category of the K-AI Leaderboard with its own Korean LLM 'Ourbox-31B-JGOS'; the on-device AI for its talking 3D avatar is built with VIDRAFT's 'POCKET'](https://www.donga.com/news/all/article/all/20260727/134370188/1)
-- 🇰🇷 **The Korea Economic Daily (Hankyung)**: [Korea Economic Daily reports: Ourbox's 'Ourbox-31B-JGOS' ranks #2 overall in the 30B+ category of the government-run K-AI Leaderboard, built with VIDRAFT's on-device AI platform 'POCKET'](https://www.hankyung.com/article/202607277730O)
-- 🇰🇷 **ZDNet Korea**: [ZDNet Korea reports: Smart logistics firm Ourbox reaches #2 on the K-AI Leaderboard with its own Korean AI 'Ourbox-31B-JGOS', in collaboration with VIDRAFT's CPU on-device platform 'POCKET'](https://zdnet.co.kr/view/?no=20260727094705)
-
-### 2026-07-26
-- 🇨🇳 **Táozi AI Flash (China)**: [Chinese outlet Táozi AI Flash covers VIDRAFT's POCKET-35B: a 35B on-device model that runs on GPU-less PCs and phones: spreading to Chinese-language media via the Reddit r/LocalLLaMA community](https://www.taozi.news/news/pocket-35b-gpu-pc-1oic9ac)
-
-### 2026-07-24
-- 🇺🇸 **SemiEngineering (US)**: [US semiconductor authority SemiEngineering editorial staff selects VIDRAFT's quantum cryptanalysis paper (IBM real-machine) in weekly 'security research paper' review: listed alongside Meta, Google, and top university papers](https://semiengineering.com/chip-industry-week-in-review-148/)
-- 🇺🇸 **StreetInsider (US)**: [Published on US financial news outlet StreetInsider: Spot robot at Seoul Robot & AI Science Museum understands Korean voice commands (VIDRAFT on-device AI, processed on-site without cloud)](https://www.streetinsider.com/dr/news.php?id=26809457&gfv=1)
 
 ---
 

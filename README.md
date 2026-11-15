@@ -1,11 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-15.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-16.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
 ### 2026-11-15
+- 🇨🇳 **CSDN (China)**: [CSDN (China): a user guide to Darwin-27B-RSI-Decision, a decision engine that answers yes/no, choice and score questions with probabilities in a single request, distributed to Chinese developers through the GitCode mirror](https://blog.csdn.net/gitblog_00565/article/details/170815077)
 - 🇨🇳 **AI Post Hub (Chinese-language)**: [AI Post Hub (Chinese-language): FINAL-Bench launches a weather model leaderboard that checks forecasts daily across 24 cities on six continents, with an in-depth look at the Darwin fusion forecast and WeatherBench 2 results](https://www.aiposthub.com/final-bench-weather-model-leaderboard-daily-evaluation/)
 
 ### 2026-11-14
@@ -207,9 +208,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **Dong-A Ilbo**: [VIDRAFT and OURBOX sign PoC contract for logistics-specialized LLM and digital twin](https://www.donga.com/news/Economy/article/all/20260907/134619041/1)
 - 🇰🇷 **ZDNet Korea**: [“Korea holds just 0.4% of global open-model downloads”: VIDRAFT analyzes Hugging Face top 300](https://zdnet.co.kr/view/?no=20260907154937)
 - 🇰🇷 **BioTimes**: [VIDRAFT selected for ‘Challenge Bio’: small-molecule oncology discovery through preclinical, targeting compound IP](https://www.biotimes.co.kr/news/articleView.html?idxno=34281)
-
-### 2026-09-06
-- 🇰🇷 **Electronic Times**: [Hugging Face spotlights Korea’s VIDRAFT: proving its technology on the global AI stage (CEO Kim Min-sik interview)](https://www.etnews.com/20260904000247)
 
 ---
 

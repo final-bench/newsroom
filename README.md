@@ -6,7 +6,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-11-14
-- 🇰🇷 **Hot-News.it (Italy)**: [Hot-News.it (Italy): FINAL-Bench launches an AI weather model leaderboard, scoring AI and physics-based forecasts daily under identical conditions across 24 cities on six continents](https://www.hot-news.it/portal/news/21999-final-bench-launches-ai-weather-model-leaderboard)
+- 🇮🇹 **Hot-News.it (Italy)**: [Hot-News.it (Italy): FINAL-Bench launches an AI weather model leaderboard, scoring AI and physics-based forecasts daily under identical conditions across 24 cities on six continents](https://www.hot-news.it/portal/news/21999-final-bench-launches-ai-weather-model-leaderboard)
 - 🌐 **CASRAI (Global)**: [CASRAI (Global): FINAL-Bench launches an open daily evaluation leaderboard for AI weather models, with VIDRAFT's Darwin-Prediction-Weather recording the lowest error in all four variables from 1 to 7 days](https://casrai.org/news/final-bench-open-daily-weather-model-evaluation-2026)
 
 ### 2026-11-13
@@ -22,7 +22,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-11-09
 - 🌐 **Chat Room Web (Global)**: [Chat Room Web (Global): legal mastery without legal data, how VIDRAFT's Darwin-180B-RSI rewrites the rules of AI reasoning](https://chatroomweb.com/unlocking-legal-mastery-without-legal-data-how-vidrafts-darwin-180b-rsi-rewrites-the-rules-of-ai-reasoning/)
 - 🇺🇸 **zPlatform.ai (US)**: [zPlatform.ai (US): POCKET-Darwin-180B and Darwin-180B-RSI-R3 are listed in an independent Hugging Face model ranking based on real adoption and growth](https://zplatform.ai/hugging-face-models/)
-- 🇰🇷 **USB.RU (Russia)**: [Russia's USB.RU: Darwin-180B-RSI beats Gemini and DeepSeek in math, the best open-weight model in SuperCLUE's November ranking (73.68, second of 19)](https://usb.ru/news/darwin-180b-rsi-superclue-nov-2026/)
+- 🇷🇺 **USB.RU (Russia)**: [Russia's USB.RU: Darwin-180B-RSI beats Gemini and DeepSeek in math, the best open-weight model in SuperCLUE's November ranking (73.68, second of 19)](https://usb.ru/news/darwin-180b-rsi-superclue-nov-2026/)
 - 🌐 **ByteWoops (Global)**: [ByteWoops (zh/en): SuperCLUE's numbered No. 1 is not the highest score of the 19 models; on a November board where category leads split, VIDRAFT's Darwin-180B-RSI-R3 takes math and science reasoning 73.68, second of 19](https://www.bytewoops.com/zh-CN/stories/superclue-s-numbered-no-1-is-not-the-highest-score-of-the-19)
 
 ### 2026-11-08
@@ -35,7 +35,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-11-06
 - 🇯🇵 **Zenn (Japan)**: [Zenn (Japan) developer tech watch: two of ten picks go to VIDRAFT's ViKernel, the design that puts the stop mechanism, the action rules and the audit chain inside the weights](https://zenn.dev/laiken/articles/20261106-tech-watch)
 - 🇨🇳 **NetEase (China)**: [NetEase (China): VIDRAFT's Darwin-180B-RSI-R3, the only Korean model on the SuperCLUE board, takes second in math and science reasoning and first among open-weight models, ahead of its parent model at 15th](https://www.163.com/dy/article/LB0SLOGS05561FZO.html)
-- 🇰🇷 **Blog Donweb (Argentina)**: [Blog Donweb (Latin America): VIDRAFT's Darwin ranks second of 19 and first among open-weight models in SuperCLUE's November 2026 math and science reasoning](https://blog.donweb.com/darwin-superclue-resultado-razonamiento-matematico/)
+- 🇦🇷 **Blog Donweb (Argentina)**: [Blog Donweb (Latin America): VIDRAFT's Darwin ranks second of 19 and first among open-weight models in SuperCLUE's November 2026 math and science reasoning](https://blog.donweb.com/darwin-superclue-resultado-razonamiento-matematico/)
 - 🌐 **ByteWoops (Global)**: [ByteWoops (zh/en): the sleeper in the weights, scans all green yet the agent still proposes curl/bash; VIDRAFT's ViKernel gate rejected all 290 payloads before execution](https://www.bytewoops.com/zh-CN/stories/curl-bash)
 - 🇰🇷 **LUCAS AI News (Korea)**: [VIDRAFT releases Darwin-180B, claims second place in SuperCLUE math and science reasoning](https://lucasainews.com/news/vidraft-darwin-180b-rsi-r3-open-weight/)
 - 🇰🇷 **AI Times**: [VIDRAFT's Darwin at world number two level in math and science reasoning, ahead of Google and DeepSeek](https://www.aitimes.com/news/articleView.html?idxno=217089)
@@ -58,7 +58,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇨🇳 **AI Pulse (China)**: [China's AI Pulse covers VIDRAFT's ViKernel backdoor lab: a backdoored model that passed 24 checks, all 290 payloads blocked before execution](https://ai-pulse-lab.com/articles/2026-11-03/the-sleeper-in-the-weights-we-planted-a-backdoor-i)
 - 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT builds a kill switch inside the model weights and releases ViKernel, a security OS the model cannot switch off](https://www.aienews.kr/news/articleView.html?idxno=3763)
 - 🇰🇷 **AI Economy News**: [AI Economy News: Hugging Face's own open-source team built and donated a live demo of VIDRAFT's vision decision model](https://www.aienews.kr/news/articleView.html?idxno=3744)
-- 🇰🇷 **iHAL (Italy)**: [Italy's iHAL highlights VIDRAFT's 'ViKernel': a security OS and controlled kill switch built into AI model weights](https://ihal.it/vidraft-vikernel-os/)
+- 🇮🇹 **iHAL (Italy)**: [Italy's iHAL highlights VIDRAFT's 'ViKernel': a security OS and controlled kill switch built into AI model weights](https://ihal.it/vidraft-vikernel-os/)
 
 ### 2026-11-02
 - 🌐 **Night Grade, scrollstime.com (Global)**: [Night Grade, an independent model comparison site (BenchLM and Hugging Face published scores, as of Nov 2): Darwin-180B-RSI ranks #1 in reasoning at 94.4, above GPT-6 Astra (#3), GPT-6.1 Sol (#5) and Gemini 4 Argon; 11 of the top 20 are VIDRAFT Darwin models](https://www.scrollstime.com/navigator.html)
@@ -83,7 +83,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-10-18
 - 🇰🇷 **Naver Encyclopedia**: [Listed in Naver Encyclopedia: VIDRAFT building a platform anyone can use toward true AGI](https://terms.naver.com/%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%86%B5%EC%8B%A0-IT/PART-04-%EB%B9%84%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8-%ED%8A%B8%EB%A3%A8-AGI-%EB%8B%AC%EC%84%B1-%EC%9C%84%ED%95%B4-%EB%88%84%EA%B5%AC%EB%82%98-%ED%99%9C%EC%9A%A9-%EA%B0%80%EB%8A%A5-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%98%84-3aIQ0JDmygCbS51JOcvzsd)
-- 🇰🇷 **AIhoster (Russia)**: [Russia's AIhoster benchmark hub lists Darwin-180B-RSI at #1 on MMLU-Pro and GPQA (88.1%, 94.4%)](https://aihoster.ru/benchmarks)
+- 🇷🇺 **AIhoster (Russia)**: [Russia's AIhoster benchmark hub lists Darwin-180B-RSI at #1 on MMLU-Pro and GPQA (88.1%, 94.4%)](https://aihoster.ru/benchmarks)
 
 ### 2026-10-16
 - 🇰🇷 **FINAL-Bench**: [Darwin-27B-ZTC-v5 reclaims #1 on Hugging Face Typed Decisions (0.81)](https://huggingface.co/datasets/LocalLLaMA/typed-decisions)
@@ -104,7 +104,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-10-13
 - 🌐 **RocketPunch Discover**: [VIDRAFT develops VKORE for AI training on inference-only NPUs](https://www.rocketpunch.com/en/discover/70388?list=true)
-- 🇰🇷 **Alabia Insights**: [Darwin-27B-ZTC leads the System One (S1MB) decision-model benchmark](https://alabia.com.br/insights/ia/inteligencia-artificial/darwin-27b-ztc-v2-system-one-benchmark-leader-2/)
+- 🇧🇷 **Alabia Insights**: [Darwin-27B-ZTC leads the System One (S1MB) decision-model benchmark](https://alabia.com.br/insights/ia/inteligencia-artificial/darwin-27b-ztc-v2-system-one-benchmark-leader-2/)
 - 🇰🇷 **ChosunBiz**: [VIDRAFT tops the global Decision AI benchmark S1MB, ahead of Perplexity, Cloudflare and Meta](https://biz.chosun.com/industry/business_info/2026/10/13/RV5RAIFATNFE3PYKQEJDN2RVOA/)
 - 🇰🇷 **AI Times**: [VIDRAFT develops NPU acceleration software 'VKORE', enabling both inference and training](https://www.aitimes.com/news/articleView.html?idxno=216203)
 - 🇰🇷 **ZDNet Korea**: [Training on inference-only NPUs: VIDRAFT develops its VKORE acceleration layer](https://zdnet.co.kr/view/?no=20261013120239)
@@ -112,7 +112,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-10-12
 - 🇮🇱 **ZiratAI**: [Open Quantum Challenge offers an open, GPU-based quantum simulation competition, organized by FINAL-Bench and built by VIDRAFT](https://ziratai.org/news/quantum-gpu-simulation-challenge)
 - 🇰🇷 **KSSBA News**: [VIDRAFT tops all 11 official Hugging Face benchmark leaderboards with Darwin-180B-RSI](https://www.kssba.or.kr/bbs/board.php?bo_table=news_02&wr_id=374)
-- 🇰🇷 **dangmua.com**: [Blog names VIDRAFT's Darwin-27B-ZTC-v2 as the open-weights alternative to a16z-backed Jev ($870M, $7.5B valuation)](https://dangmua.com/blog/jev-bets-870m-that-agents-shouldn-t-ask-an-llm-to-decide)
+- 🇻🇳 **dangmua.com**: [Blog names VIDRAFT's Darwin-27B-ZTC-v2 as the open-weights alternative to a16z-backed Jev ($870M, $7.5B valuation)](https://dangmua.com/blog/jev-bets-870m-that-agents-shouldn-t-ask-an-llm-to-decide)
 
 ### 2026-10-11
 - 🇰🇷 **VIDRAFT**: [Open Quantum Challenge: both seasons launch today on Hugging Face: quantum simulation and QEC decoding on a GPU, no quantum computer (2,000 USD total prize)](https://huggingface.co/spaces/FINAL-Bench/open-quantum-challenge)

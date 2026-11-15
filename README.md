@@ -6,9 +6,11 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-11-14
+- 🇰🇷 **Hot-News.it (Italy)**: [Hot-News.it (Italy): FINAL-Bench launches an AI weather model leaderboard, scoring AI and physics-based forecasts daily under identical conditions across 24 cities on six continents](https://www.hot-news.it/portal/news/21999-final-bench-launches-ai-weather-model-leaderboard)
 - 🌐 **CASRAI (Global)**: [CASRAI (Global): FINAL-Bench launches an open daily evaluation leaderboard for AI weather models, with VIDRAFT's Darwin-Prediction-Weather recording the lowest error in all four variables from 1 to 7 days](https://casrai.org/news/final-bench-open-daily-weather-model-evaluation-2026)
 
 ### 2026-11-13
+- 🇨🇳 **ByteWoops (Chinese)**: [ByteWoops (Chinese): an open weather scoreboard puts AI ahead of physics models, with VIDRAFT's Darwin-Prediction-Weather lowest in all four variables from 1 to 7 days and a 1-day max-temperature error of 0.84°C](https://www.bytewoops.com/zh-CN/stories/an-open-weather-scoreboard-puts-ai-ahead-and-the-leading-system-is-run-by-the-scorer)
 - 🇰🇷 **Seoul Shinmun**: [Seoul Shinmun: VIDRAFT's Darwin ranks first among open-weight models in SuperCLUE's math and science reasoning evaluation, second of all 19 models](https://www.seoul.co.kr/news/economy/2026/11/13/20261113500198)
 
 ### 2026-11-11
@@ -18,6 +20,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇨🇳 **ZAKER (China)**: [ZAKER (China): an in-depth, byte-level analysis of the Darwin-180B-RSI-R3 GGUF structure, with a Chinese outlet dissecting VIDRAFT's open model](https://www.myzaker.com/article/6af129768e9f0933642ae0fb)
 
 ### 2026-11-09
+- 🌐 **Chat Room Web (Global)**: [Chat Room Web (Global): legal mastery without legal data, how VIDRAFT's Darwin-180B-RSI rewrites the rules of AI reasoning](https://chatroomweb.com/unlocking-legal-mastery-without-legal-data-how-vidrafts-darwin-180b-rsi-rewrites-the-rules-of-ai-reasoning/)
 - 🇺🇸 **zPlatform.ai (US)**: [zPlatform.ai (US): POCKET-Darwin-180B and Darwin-180B-RSI-R3 are listed in an independent Hugging Face model ranking based on real adoption and growth](https://zplatform.ai/hugging-face-models/)
 - 🇰🇷 **USB.RU (Russia)**: [Russia's USB.RU: Darwin-180B-RSI beats Gemini and DeepSeek in math, the best open-weight model in SuperCLUE's November ranking (73.68, second of 19)](https://usb.ru/news/darwin-180b-rsi-superclue-nov-2026/)
 - 🌐 **ByteWoops (Global)**: [ByteWoops (zh/en): SuperCLUE's numbered No. 1 is not the highest score of the 19 models; on a November board where category leads split, VIDRAFT's Darwin-180B-RSI-R3 takes math and science reasoning 73.68, second of 19](https://www.bytewoops.com/zh-CN/stories/superclue-s-numbered-no-1-is-not-the-highest-score-of-the-19)
@@ -207,13 +210,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-03
 - 🇰🇷 **Korea.kr Policy Briefing**: [Government policy briefing: Korea’s sovereign AI foundation model announcement](https://www.korea.kr/docViewer/skin/doc.html?fn=aa41a671bcbc63d684889b250bb35618&rs=/docViewer/result/2026.09/03/aa41a671bcbc63d684889b250bb35618)
-- 🇰🇷 **Digital Daily**: [Naver Cloud consortium selected for Korea’s cybersecurity AI foundation model: VIDRAFT participates](https://www.ddaily.co.kr/page/view/2026090309210384477)
-
-### 2026-09-02
-- 🇩🇪 **ad-hoc-news (Germany)**: [VIDOG-Kit: VIDRAFT retrofits robots with on-device AI (German media)](https://www.ad-hoc-news.de/wissenschaft/vidog-kit-vidraft-ruestet-roboter-mit-on-device-ki-nach/70041532)
-
-### 2026-09-01
-- 🇰🇷 **Robot News**: [VIDRAFT supplies ‘VIDOG’ AI kit turning remote-control robots into autonomous walkers](https://www.irobotnews.com/news/articleView.html?idxno=48244)
 
 ---
 

@@ -1,9 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-13.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-15.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
+
+### 2026-11-14
+- 🌐 **CASRAI (Global)**: [CASRAI (Global): FINAL-Bench launches an open daily evaluation leaderboard for AI weather models, with VIDRAFT's Darwin-Prediction-Weather recording the lowest error in all four variables from 1 to 7 days](https://casrai.org/news/final-bench-open-daily-weather-model-evaluation-2026)
 
 ### 2026-11-13
 - 🇰🇷 **Seoul Shinmun**: [Seoul Shinmun: VIDRAFT's Darwin ranks first among open-weight models in SuperCLUE's math and science reasoning evaluation, second of all 19 models](https://www.seoul.co.kr/news/economy/2026/11/13/20261113500198)
@@ -211,7 +214,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-01
 - 🇰🇷 **Robot News**: [VIDRAFT supplies ‘VIDOG’ AI kit turning remote-control robots into autonomous walkers](https://www.irobotnews.com/news/articleView.html?idxno=48244)
-- 🇰🇷 **AI Times**: [VIDRAFT unveils live experiment world ‘ai-world’: is AI civilization emergence or recitation?](https://www.aitimes.com/news/articleView.html?idxno=214701)
 
 ---
 

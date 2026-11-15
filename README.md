@@ -5,6 +5,9 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
+### 2026-11-15
+- 🇨🇳 **AI Post Hub (Chinese-language)**: [AI Post Hub (Chinese-language): FINAL-Bench launches a weather model leaderboard that checks forecasts daily across 24 cities on six continents, with an in-depth look at the Darwin fusion forecast and WeatherBench 2 results](https://www.aiposthub.com/final-bench-weather-model-leaderboard-daily-evaluation/)
+
 ### 2026-11-14
 - 🇮🇹 **Hot-News.it (Italy)**: [Hot-News.it (Italy): FINAL-Bench launches an AI weather model leaderboard, scoring AI and physics-based forecasts daily under identical conditions across 24 cities on six continents](https://www.hot-news.it/portal/news/21999-final-bench-launches-ai-weather-model-leaderboard)
 - 🌐 **CASRAI (Global)**: [CASRAI (Global): FINAL-Bench launches an open daily evaluation leaderboard for AI weather models, with VIDRAFT's Darwin-Prediction-Weather recording the lowest error in all four variables from 1 to 7 days](https://casrai.org/news/final-bench-open-daily-weather-model-evaluation-2026)
@@ -207,9 +210,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-06
 - 🇰🇷 **Electronic Times**: [Hugging Face spotlights Korea’s VIDRAFT: proving its technology on the global AI stage (CEO Kim Min-sik interview)](https://www.etnews.com/20260904000247)
-
-### 2026-09-03
-- 🇰🇷 **Korea.kr Policy Briefing**: [Government policy briefing: Korea’s sovereign AI foundation model announcement](https://www.korea.kr/docViewer/skin/doc.html?fn=aa41a671bcbc63d684889b250bb35618&rs=/docViewer/result/2026.09/03/aa41a671bcbc63d684889b250bb35618)
 
 ---
 

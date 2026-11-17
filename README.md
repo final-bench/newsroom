@@ -6,6 +6,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-11-17
+- 🇨🇳 **NetEase (China)**: [NetEase (China): 57 leaderboards and 1,458 records, and this Korean company took 12 first places, a full analysis of Hugging Face official benchmarks with top-three finishes on all 15 boards it entered](https://www.163.com/dy/article/LBU89IAA05561FZE.html)
 - 🇰🇷 **ZDNet Korea**: [ZDNet Korea: VIDRAFT's 180B-parameter Darwin outscores a 2.8T-parameter Chinese model, first among open-weight models in math and science reasoning with its own model synthesis and self-improvement technology](https://zdnet.co.kr/view/?no=20261117112235)
 
 ### 2026-11-16
@@ -209,9 +210,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-09
 - 🇰🇷 **IT Chosun**: [VIDRAFT and Pyo Biotech partner on cell-based validation of AI-discovered drug candidates](https://it.chosun.com/news/articleView.html?idxno=2023092169781)
-
-### 2026-09-07
-- 🇰🇷 **Dong-A Ilbo**: [VIDRAFT and OURBOX sign PoC contract for logistics-specialized LLM and digital twin](https://www.donga.com/news/Economy/article/all/20260907/134619041/1)
 
 ---
 

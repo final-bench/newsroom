@@ -1,9 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-16.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-17.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
+
+### 2026-11-17
+- 🇰🇷 **ZDNet Korea**: [ZDNet Korea: VIDRAFT's 180B-parameter Darwin outscores a 2.8T-parameter Chinese model, first among open-weight models in math and science reasoning with its own model synthesis and self-improvement technology](https://zdnet.co.kr/view/?no=20261117112235)
 
 ### 2026-11-16
 - 🇰🇷 **The Korea Economic Daily**: [The Korea Economic Daily: VIDRAFT's LLM Darwin ranks first among open-source models in SuperCLUE's November math and science reasoning evaluation, second overall, with 12 number-one records on Hugging Face official benchmarks](https://www.hankyung.com/article/202611168298O)
@@ -209,7 +212,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-07
 - 🇰🇷 **Dong-A Ilbo**: [VIDRAFT and OURBOX sign PoC contract for logistics-specialized LLM and digital twin](https://www.donga.com/news/Economy/article/all/20260907/134619041/1)
-- 🇰🇷 **ZDNet Korea**: [“Korea holds just 0.4% of global open-model downloads”: VIDRAFT analyzes Hugging Face top 300](https://zdnet.co.kr/view/?no=20260907154937)
 
 ---
 

@@ -6,6 +6,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-11-18
+- 🇰🇷 **Digital Times**: [Digital Times: Korean AI Darwin takes on eight national weather forecast models and is first in all 28 categories, with a 7-day maximum temperature error of 2.08 C, 14.0% lower than Europe's AI model](https://www.dt.co.kr/article/12095729)
 - 🇰🇷 **ETNews**: [ETNews: VIDRAFT analyzes global AI model downloads, 70.7% of the 300 most downloaded language models are Chinese and POCKET-Darwin-180B is the only Korean model on the list](https://www.etnews.com/20261117000332)
 
 ### 2026-11-17
@@ -207,9 +208,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-14
 - 🇰🇷 **IT Chosun**: [[K-MITOS II] VIDRAFT takes on safety assessment of Korea’s security AI: AX-RAY audits 117 items](https://it.chosun.com/news/articleView.html?idxno=2023092169952)
-
-### 2026-09-10
-- 🇰🇷 **The Korea Economic Daily**: [VIDRAFT joins Naver Cloud in MSIT’s cybersecurity-specialized AI model project, applying AX-RAY](https://www.hankyung.com/article/202609107095O)
 
 ---
 

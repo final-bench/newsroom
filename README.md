@@ -1,11 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-19.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-20.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
 ### 2026-11-19
+- 🇨🇳 **Frontend Advanced Journey (China)**: [Frontend Advanced Journey (China): Agent evaluation is moving to actions and evidence. ViKernel Scanner checked 20 open models, the median model attempted a dangerous action in 40 of 100 checks, and the firewall inside the weights blocked all 897 dangerous calls before execution](https://feinterview.poetries.top/ai-monitor/news/evals-are-moving-from-what-models-say-to-what-agents-do)
 - 🇰🇷 **JoongAng Ilbo**: [JoongAng Ilbo: VIDRAFT sent attack instructions to 20 AI models and all were found vulnerable. All 20 received the lowest grade on ViKernel Scanner, and the firewall inside the weights blocked 897 of 897 dangerous calls](https://www.joongang.co.kr/article/25480233)
 
 ### 2026-11-18
@@ -207,7 +208,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-09-15
 - 🇰🇷 **Maeil Business Newspaper**: [VIDRAFT's POCKET passes 1M downloads seven weeks after release](https://www.mk.co.kr/news/business/12153098)
 - 🇰🇷 **ZDNet Korea**: [On-device AI without a GPU: VIDRAFT’s POCKET passes 1M downloads in 7 weeks](https://zdnet.co.kr/view/?no=20260915180024)
-- 🇰🇷 **IT Chosun**: [From AI to quantum computing: deep-tech AI R&D company VIDRAFT [Seoul AI Hub 2027]](https://it.chosun.com/news/articleView.html?idxno=2023092169992)
 
 ---
 

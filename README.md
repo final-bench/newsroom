@@ -1,9 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-18.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-19.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
+
+### 2026-11-19
+- 🇰🇷 **JoongAng Ilbo**: [JoongAng Ilbo: VIDRAFT sent attack instructions to 20 AI models and all were found vulnerable. All 20 received the lowest grade on ViKernel Scanner, and the firewall inside the weights blocked 897 of 897 dangerous calls](https://www.joongang.co.kr/article/25480233)
 
 ### 2026-11-18
 - 🇰🇷 **Digital Times**: [Digital Times: Korean AI Darwin takes on eight national weather forecast models and is first in all 28 categories, with a 7-day maximum temperature error of 2.08 C, 14.0% lower than Europe's AI model](https://www.dt.co.kr/article/12095729)
@@ -205,9 +208,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **Maeil Business Newspaper**: [VIDRAFT's POCKET passes 1M downloads seven weeks after release](https://www.mk.co.kr/news/business/12153098)
 - 🇰🇷 **ZDNet Korea**: [On-device AI without a GPU: VIDRAFT’s POCKET passes 1M downloads in 7 weeks](https://zdnet.co.kr/view/?no=20260915180024)
 - 🇰🇷 **IT Chosun**: [From AI to quantum computing: deep-tech AI R&D company VIDRAFT [Seoul AI Hub 2027]](https://it.chosun.com/news/articleView.html?idxno=2023092169992)
-
-### 2026-09-14
-- 🇰🇷 **IT Chosun**: [[K-MITOS II] VIDRAFT takes on safety assessment of Korea’s security AI: AX-RAY audits 117 items](https://it.chosun.com/news/articleView.html?idxno=2023092169952)
 
 ---
 

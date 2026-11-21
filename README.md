@@ -6,6 +6,8 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-11-20
+- 🇨🇳 **NetEase (China)**: [NetEase (China): The same model, and one added word steals your key, VIDRAFT's live demonstration of a supply-chain backdoor hidden in the weights, where ViKernel denies the call before execution and not one byte leaves](https://www.163.com/dy/article/LC5JVHI805561FZI.html)
+- 🇨🇳 **NetEase (China)**: [NetEase (China): One hidden word makes the model send out the key and ViKernel stops it at the exit, VIDRAFT's demonstration sending the same request to a clean model, a backdoored copy and the backdoored copy behind ViKernel](https://www.163.com/dy/article/LC5JVDEF05561FZH.html)
 - 🇰🇷 **The Korea Economic Daily**: [VIDRAFT releases ViKernel Scanner, a tool that checks the security of AI models](https://www.hankyung.com/article/202611197606O)
 
 ### 2026-11-19
@@ -200,12 +202,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **The Dong-A Ilbo**: [Korean startup AI beats global big tech for 'five world titles': perfect score on math-olympiad problems](https://www.donga.com/news/Economy/article/all/20260928/134746124/1)
 - 🇰🇷 **ZDNet Korea**: [VIDRAFT's Darwin-180B-RSI ranks #1 on five Hugging Face benchmarks](https://zdnet.co.kr/view/?no=20260928170507)
 - 🌐 **Hugging Face**: [VIDRAFT 'Gate Arcade' (ZTC action gate) selected for Hugging Face Spaces of the Week: week of Sept 28, 2026](https://huggingface.co/spaces/FINAL-Bench/gate-tetris)
-
-### 2026-09-22
-- 🇰🇷 **EBN**: [Government–NAVER consortium commits 4,512 GPUs to build security-specialised AI](https://www.ebn.co.kr/news/articleView.html?idxno=1725429)
-
-### 2026-09-17
-- 🇰🇷 **The Dong-A Ilbo**: [GiniGEN AI publishes a Korean-quality evaluation of 426 OpenRouter models](https://www.donga.com/news/Economy/article/all/20260917/134689032/1)
 
 ---
 

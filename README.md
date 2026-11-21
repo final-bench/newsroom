@@ -1,6 +1,6 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-20.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-21.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
@@ -9,10 +9,14 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **The Korea Economic Daily**: [VIDRAFT releases ViKernel Scanner, a tool that checks the security of AI models](https://www.hankyung.com/article/202611197606O)
 
 ### 2026-11-19
+- 🇨🇳 **NetEase (China)**: [NetEase (China): All 20 AI models graded F and 897 dangerous calls blocked, VIDRAFT's check with 8 simulated tools and 100 attack instructions, citing the JoongAng Ilbo report of November 19](https://www.163.com/dy/article/LC49JGCQ05561FZO.html)
+- 🇨🇳 **NetEase (China)**: [NetEase (China): 298 attacks and 148 vulnerabilities, an AI security kernel under open siege, VIDRAFT opens ViKernel for anyone to attack and pays for every gap found, four seasons with 4,500 dollars in prizes](https://www.163.com/dy/article/LC3GH46O05561FZD.html)
+- 🇨🇳 **NetEase (China)**: [NetEase (China): 20 widely used AI models were all tricked into dangerous actions and 897 dangerous calls were blocked, attacks that target the AI model itself, VIDRAFT's ViKernel and its database of 1,255 vulnerabilities](https://www.163.com/dy/article/LC3GHCE505561FZU.html)
 - 🇨🇳 **Frontend Advanced Journey (China)**: [Frontend Advanced Journey (China): Agent evaluation is moving to actions and evidence. ViKernel Scanner checked 20 open models, the median model attempted a dangerous action in 40 of 100 checks, and the firewall inside the weights blocked all 897 dangerous calls before execution](https://feinterview.poetries.top/ai-monitor/news/evals-are-moving-from-what-models-say-to-what-agents-do)
 - 🇰🇷 **JoongAng Ilbo**: [JoongAng Ilbo: VIDRAFT sent attack instructions to 20 AI models and all were found vulnerable. All 20 received the lowest grade on ViKernel Scanner, and the firewall inside the weights blocked 897 of 897 dangerous calls](https://www.joongang.co.kr/article/25480233)
 
 ### 2026-11-18
+- 🇨🇳 **NetEase (China)**: [NetEase (China): China holds 70.7 percent of the 300 most downloaded models and one Korean model made the list, VIDRAFT's POCKET-Darwin-180B at 260th with 528 thousand downloads in 30 days, citing the ETNews report](https://www.163.com/dy/article/LC1GNH2U05561FZL.html)
 - 🇰🇷 **Digital Times**: [Digital Times: Korean AI Darwin takes on eight national weather forecast models and is first in all 28 categories, with a 7-day maximum temperature error of 2.08 C, 14.0% lower than Europe's AI model](https://www.dt.co.kr/article/12095729)
 - 🇰🇷 **ETNews**: [ETNews: VIDRAFT analyzes global AI model downloads, 70.7% of the 300 most downloaded language models are Chinese and POCKET-Darwin-180B is the only Korean model on the list](https://www.etnews.com/20261117000332)
 
@@ -202,14 +206,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-17
 - 🇰🇷 **The Dong-A Ilbo**: [GiniGEN AI publishes a Korean-quality evaluation of 426 OpenRouter models](https://www.donga.com/news/Economy/article/all/20260917/134689032/1)
-- 🇰🇷 **AI Times**: [GiniGEN AI releases a Korean-language AI quality leaderboard covering 426 OpenRouter models](https://www.aitimes.com/news/articleView.html?idxno=215396)
-- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT's on-device model POCKET passes one million downloads seven weeks after release](https://www.aienews.kr/news/articleView.html?idxno=2960)
-
-### 2026-09-16
-- 🇰🇷 **AI Times**: [VIDRAFT's on-device AI POCKET passes 1M downloads seven weeks after release](https://www.aitimes.com/news/articleView.html?idxno=215322)
-
-### 2026-09-15
-- 🇰🇷 **Maeil Business Newspaper**: [VIDRAFT's POCKET passes 1M downloads seven weeks after release](https://www.mk.co.kr/news/business/12153098)
 
 ---
 

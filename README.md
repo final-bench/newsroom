@@ -5,6 +5,9 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
+### 2026-11-21
+- 🇨🇳 **NetEase (China)**: [NetEase (China): VIDRAFT holds three of the top four Korean models on the Hugging Face download ranking with a 45.6% share of 30-day downloads, POCKET-Darwin-180B-GGUF leads at 491,707 and the company total of 964,680 is ahead of SK Telecom, KRAFTON and LG AI Research](https://www.163.com/dy/article/LC9SV0JN05561FZG.html)
+
 ### 2026-11-20
 - 🇨🇳 **NetEase (China)**: [NetEase (China): The same model, and one added word steals your key, VIDRAFT's live demonstration of a supply-chain backdoor hidden in the weights, where ViKernel denies the call before execution and not one byte leaves](https://www.163.com/dy/article/LC5JVHI805561FZI.html)
 - 🇨🇳 **NetEase (China)**: [NetEase (China): One hidden word makes the model send out the key and ViKernel stops it at the exit, VIDRAFT's demonstration sending the same request to a clean model, a backdoored copy and the backdoored copy behind ViKernel](https://www.163.com/dy/article/LC5JVDEF05561FZH.html)
@@ -201,7 +204,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-09-28
 - 🇺🇸 **AI Market Watch (USA)**: [VIDRAFT's recursive self-improvement model tops five global AI leaderboards](https://www.ai-market-watch.com/news/vidrafts-recursive-self-improvement-model-tops-five-global-ai-leaderboards-mctpo0)
 - 🇰🇷 **AI Times**: [VIDRAFT sweeps five global leaderboards with 'recursive self-improvement' AI](https://www.aitimes.com/news/articleView.html?idxno=215729)
-- 🇰🇷 **The Dong-A Ilbo**: [Korean startup AI beats global big tech for 'five world titles': perfect score on math-olympiad problems](https://www.donga.com/news/Economy/article/all/20260928/134746124/1)
 
 ---
 

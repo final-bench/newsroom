@@ -5,6 +5,9 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
+### 2026-11-22
+- 🇨🇳 **Dian8dian (China)**: [Dian8dian (China): VIDRAFT POCKET-27B-Pi runs a 27B coding agent on a single 24GB GPU from one 16.5GB file, completing 28 of 48 shared Terminal-Bench 2.1 tasks versus 19 for the original Qwen3.8-27B (+47%), in a file 3.3x smaller than the 53.8GB full-precision build](https://www.dian8dian.com/27b-bian-ma-zhi-neng-ti-ben-di-hua-16-5gb-wen-jian-ru-he)
+
 ### 2026-11-21
 - 🇨🇳 **NetEase (China)**: [NetEase (China): VIDRAFT holds three of the top four Korean models on the Hugging Face download ranking with a 45.6% share of 30-day downloads, POCKET-Darwin-180B-GGUF leads at 491,707 and the company total of 964,680 is ahead of SK Telecom, KRAFTON and LG AI Research](https://www.163.com/dy/article/LC9SV0JN05561FZG.html)
 
@@ -203,7 +206,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-28
 - 🇺🇸 **AI Market Watch (USA)**: [VIDRAFT's recursive self-improvement model tops five global AI leaderboards](https://www.ai-market-watch.com/news/vidrafts-recursive-self-improvement-model-tops-five-global-ai-leaderboards-mctpo0)
-- 🇰🇷 **AI Times**: [VIDRAFT sweeps five global leaderboards with 'recursive self-improvement' AI](https://www.aitimes.com/news/articleView.html?idxno=215729)
 
 ---
 

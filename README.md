@@ -1,6 +1,6 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-21.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-22.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
@@ -96,6 +96,8 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **Business Report (Korea)**: [[Tomorrow is Decacorn] VIDRAFT pretrains a language model on an inference-only NPU and releases it](https://www.businessreport.kr/news/articleView.html?idxno=55092)
 
 ### 2026-11-01
+- 🇯🇵 **Local LLM Wiki (Japan)**: [Local LLM Wiki (Japan): Ultra-large GGUF model POCKET-Darwin-180B-GGUF released, a roughly 180B multilingual MoE quantized model from VIDRAFT's POCKET family built for on-device use with llama.cpp](https://localllmwiki.com/articles/2026-11-01-e3b039841d25/)
+- 🇯🇵 **Local LLM Wiki (Japan)**: [Local LLM Wiki (Japan): POCKET-26B-GGUF released, a Gemma-based MoE model from VIDRAFT's POCKET family under Apache-2.0, ready to run locally with llama.cpp and similar tools](https://localllmwiki.com/articles/2026-11-01-04a4b917ce59/)
 - 🇰🇷 **Hugging Face Blog**: [VIDRAFT ViKernel: why the kill switch must live inside the model (public demo)](https://huggingface.co/blog/FINAL-Bench/vikernel-why-the-kill-switch-must-live-inside-the)
 - 🇩🇪 **Mindverse (Germany)**: [Germany's Mindverse analyzes VIDRAFT POCKET-35B-GGUF: a 35B model built for CPU-only systems](https://www.mind-verse.de/news/pocket-35b-gguf-cpu-lokale-inferenz-f2890f65dcb9)
 - 🇨🇳 **NetEase (China)**: [China's NetEase: a 180B model runs on an 8GB-VRAM laptop, VIDRAFT POCKET downloads pass 3.15 million](https://www.163.com/dy/article/LAL6FSJA05561FZX.html)
@@ -200,8 +202,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇺🇸 **AI Market Watch (USA)**: [VIDRAFT's recursive self-improvement model tops five global AI leaderboards](https://www.ai-market-watch.com/news/vidrafts-recursive-self-improvement-model-tops-five-global-ai-leaderboards-mctpo0)
 - 🇰🇷 **AI Times**: [VIDRAFT sweeps five global leaderboards with 'recursive self-improvement' AI](https://www.aitimes.com/news/articleView.html?idxno=215729)
 - 🇰🇷 **The Dong-A Ilbo**: [Korean startup AI beats global big tech for 'five world titles': perfect score on math-olympiad problems](https://www.donga.com/news/Economy/article/all/20260928/134746124/1)
-- 🇰🇷 **ZDNet Korea**: [VIDRAFT's Darwin-180B-RSI ranks #1 on five Hugging Face benchmarks](https://zdnet.co.kr/view/?no=20260928170507)
-- 🌐 **Hugging Face**: [VIDRAFT 'Gate Arcade' (ZTC action gate) selected for Hugging Face Spaces of the Week: week of Sept 28, 2026](https://huggingface.co/spaces/FINAL-Bench/gate-tetris)
 
 ---
 

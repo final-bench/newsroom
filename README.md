@@ -1,9 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-22.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-23.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
+
+### 2026-11-23
+- 🇰🇷 **AI Times**: [AI Times: VIDRAFT opens its AI security kernel ViKernel to a public red-team hackathon, with about 70 participants submitting 245 attack cases and some 90 confirmed weaknesses already folded back into the kernel](https://www.aitimes.com/news/articleView.html?idxno=217670)
 
 ### 2026-11-22
 - 🇨🇳 **Dian8dian (China)**: [Dian8dian (China): VIDRAFT POCKET-27B-Pi runs a 27B coding agent on a single 24GB GPU from one 16.5GB file, completing 28 of 48 shared Terminal-Bench 2.1 tasks versus 19 for the original Qwen3.8-27B (+47%), in a file 3.3x smaller than the 53.8GB full-precision build](https://www.dian8dian.com/27b-bian-ma-zhi-neng-ti-ben-di-hua-16-5gb-wen-jian-ru-he)
@@ -203,9 +206,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 ### 2026-09-29
 - 🇰🇷 **ChosunBiz**: [Korean AI startup VIDRAFT beats global big tech to win five AI performance titles](https://biz.chosun.com/industry/business_info/2026/09/29/74GU4VBMIZEKVD3QCFQCE25MKM/)
 - 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT opens its 180B model in full and tops five Hugging Face official benchmarks](https://www.aienews.kr/news/articleView.html?idxno=3188)
-
-### 2026-09-28
-- 🇺🇸 **AI Market Watch (USA)**: [VIDRAFT's recursive self-improvement model tops five global AI leaderboards](https://www.ai-market-watch.com/news/vidrafts-recursive-self-improvement-model-tops-five-global-ai-leaderboards-mctpo0)
 
 ---
 

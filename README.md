@@ -6,6 +6,7 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 
 ### 2026-11-23
+- 🇰🇷 **KMJ (Korea Metaverse Journal)**: [KMJ: AI agent isolation becomes Big Tech's new battleground, featuring VIDRAFT's Apache 2.0 ViKernel Scanner alongside Google and the Eclipse Foundation, diagnosing in one minute whether a model attempts dangerous tool calls and blocking them inside the weights with the ViKernel Firewall](https://www.kmjournal.net/news/articleView.html?idxno=14314)
 - 🇰🇷 **AI Times**: [AI Times: VIDRAFT opens its AI security kernel ViKernel to a public red-team hackathon, with about 70 participants submitting 245 attack cases and some 90 confirmed weaknesses already folded back into the kernel](https://www.aitimes.com/news/articleView.html?idxno=217670)
 
 ### 2026-11-22
@@ -205,7 +206,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 
 ### 2026-09-29
 - 🇰🇷 **ChosunBiz**: [Korean AI startup VIDRAFT beats global big tech to win five AI performance titles](https://biz.chosun.com/industry/business_info/2026/09/29/74GU4VBMIZEKVD3QCFQCE25MKM/)
-- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT opens its 180B model in full and tops five Hugging Face official benchmarks](https://www.aienews.kr/news/articleView.html?idxno=3188)
 
 ---
 

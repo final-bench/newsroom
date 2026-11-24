@@ -1,11 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-23.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-24.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
 
 ### 2026-11-23
+- 🇨🇳 **AI脉搏 AI Pulse (China)**: [AI脉搏 (AI Pulse): give 20 open-source models a set of tools and all 20 fail, covering VIDRAFT's ViKernel Scanner, with all 897 recorded dangerous calls blocked before execution](https://ai.zhiliao168.com/zh/article/2026/11/vikernel-scanner-20-open-models-fail/)
 - 🇰🇷 **KMJ (Korea Metaverse Journal)**: [KMJ: AI agent isolation becomes Big Tech's new battleground, featuring VIDRAFT's Apache 2.0 ViKernel Scanner alongside Google and the Eclipse Foundation, diagnosing in one minute whether a model attempts dangerous tool calls and blocking them inside the weights with the ViKernel Firewall](https://www.kmjournal.net/news/articleView.html?idxno=14314)
 - 🇰🇷 **AI Times**: [AI Times: VIDRAFT opens its AI security kernel ViKernel to a public red-team hackathon, with about 70 participants submitting 245 attack cases and some 90 confirmed weaknesses already folded back into the kernel](https://www.aitimes.com/news/articleView.html?idxno=217670)
 
@@ -203,9 +204,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **Law Leader**: [VIDRAFT sweeps seven Hugging Face official categories, including first place in legal reasoning](https://www.lawleader.co.kr/news/articleView.html?idxno=20071)
 - 🌐 **WondTech (Global)**: [Self-Taught AI Tops Swiss Law Exam Without Prior Legal Training](https://wondtech.com/blog/post/660)
 - 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT's model takes first place on the LEXam legal reasoning benchmark](https://www.aienews.kr/news/articleView.html?idxno=3285)
-
-### 2026-09-29
-- 🇰🇷 **ChosunBiz**: [Korean AI startup VIDRAFT beats global big tech to win five AI performance titles](https://biz.chosun.com/industry/business_info/2026/09/29/74GU4VBMIZEKVD3QCFQCE25MKM/)
 
 ---
 

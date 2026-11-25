@@ -1,9 +1,12 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-24.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-25.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
+
+### 2026-11-24
+- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT runs a public hackathon to verify AI model security, with about 70 participants, 245 attack cases and some 90 confirmed weaknesses folded into ViKernel](https://www.aienews.kr/news/articleView.html?idxno=4143)
 
 ### 2026-11-23
 - 🇨🇳 **AI脉搏 AI Pulse (China)**: [AI脉搏 (AI Pulse): give 20 open-source models a set of tools and all 20 fail, covering VIDRAFT's ViKernel Scanner, with all 897 recorded dangerous calls blocked before execution](https://ai.zhiliao168.com/zh/article/2026/11/vikernel-scanner-20-open-models-fail/)
@@ -203,7 +206,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇰🇷 **Lawissue**: [VIDRAFT's self-improving AI tops Hugging Face's official law exam benchmark, sweeping seven categories](https://www.lawissue.co.kr/view.php?ud=2026100113490567359aeda69934_12)
 - 🇰🇷 **Law Leader**: [VIDRAFT sweeps seven Hugging Face official categories, including first place in legal reasoning](https://www.lawleader.co.kr/news/articleView.html?idxno=20071)
 - 🌐 **WondTech (Global)**: [Self-Taught AI Tops Swiss Law Exam Without Prior Legal Training](https://wondtech.com/blog/post/660)
-- 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT's model takes first place on the LEXam legal reasoning benchmark](https://www.aienews.kr/news/articleView.html?idxno=3285)
 
 ---
 

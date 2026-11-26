@@ -1,9 +1,15 @@
 # VIDRAFT in the News
 
-Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-25.
+Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidraft.net](https://vidraft.net). Updated 2026-11-26.
 
 [![Website](https://img.shields.io/badge/Website-vidraft.net-4ea8ff)](https://vidraft.net) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-FINAL--Bench-ffb020)](https://huggingface.co/FINAL-Bench) [![THE VC](https://img.shields.io/badge/THE_VC-profile-0a66c2)](https://thevc.kr/vidraft)
 
+
+### 2026-11-26
+- 🇰🇷 **Egy Monitor (Egypt)**: [Egy Monitor (Egypt): how to scan local Ollama, LM Studio and vLLM models for shell exploits in 60 seconds with VIDRAFT's ViKernel Scanner, where all 20 open models scored F](https://egymonitor.com/en/posts/how-to-scan-local-ollama-models-shell-exploits-vikernel-2026)
+
+### 2026-11-25
+- 🇰🇷 **Egy Monitor (Egypt)**: [Egy Monitor (Egypt, Arabic): 20 open AI models all fail VIDRAFT's ViKernel Scanner, while ViKernel Firewall blocks all 897 dangerous calls before they run](https://egymonitor.com/posts/vikernel-scanner-hugging-face-open-ai-models-security-2026)
 
 ### 2026-11-24
 - 🇰🇷 **AI Economy News**: [AI Economy News: VIDRAFT runs a public hackathon to verify AI model security, with about 70 participants, 245 attack cases and some 90 confirmed weaknesses folded into ViKernel](https://www.aienews.kr/news/articleView.html?idxno=4143)
@@ -204,8 +210,6 @@ Press coverage and milestones for **VIDRAFT / FINAL-Bench**. Mirrored from [vidr
 - 🇪🇸 **🇪🇸 DonWeb (Spanish)**: [Darwin-180B-RSI leads legal benchmarks without studying law](https://blog.donweb.com/darwin-180b-rsi-benchmark-legal-lexam/)
 - 🇰🇷 **AI Times**: [VIDRAFT tops a global legal benchmark without training on legal data](https://www.aitimes.com/news/articleView.html?idxno=215851)
 - 🇰🇷 **Lawissue**: [VIDRAFT's self-improving AI tops Hugging Face's official law exam benchmark, sweeping seven categories](https://www.lawissue.co.kr/view.php?ud=2026100113490567359aeda69934_12)
-- 🇰🇷 **Law Leader**: [VIDRAFT sweeps seven Hugging Face official categories, including first place in legal reasoning](https://www.lawleader.co.kr/news/articleView.html?idxno=20071)
-- 🌐 **WondTech (Global)**: [Self-Taught AI Tops Swiss Law Exam Without Prior Legal Training](https://wondtech.com/blog/post/660)
 
 ---
 
